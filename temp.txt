@@ -1,0 +1,6 @@
+Reading cached build data
+>> Local Products Rules ..... started
+>> Local Products Rules ..... done
+>> Entering Package base/calib
+>> Creating project symlinks
+>> Compiling edm plugin /home/qnguyen/cmssw/CMSSW_7_1_0_pre5/src/base/calib/plugins/calib.cc 

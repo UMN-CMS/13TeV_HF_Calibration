@@ -1,0 +1,362 @@
+Loose2D: 0.660016
+Loose2D: 0.71152
+found highest transverse momentum HF electron: 17.308 and GSF electron: 26.9173  
+test cosh of Pi/3:1.59962
+P of highest pt gsf electron: 28.6471
+Pz of highest pt gsf electron: 9.80368
+ Pt of highest pt gsf electron: 26.9173
+P of highest pt Hf electron: 190.887
+Pz of highest pt Hf electron: 190.101
+Pt of highest pt hf electron: 17.308
+ Z MASS calculated from highest pt electrons: 88.2613
+eta of gsf: 0.356608  in radian: 1.22151
+eta of hf: 3.0916  in radian: 0.090796
+cosh pt_gsf_e.eta: 1.06426
+cosh pt_hf_e.eta: 11.0288
+ phi of gsf: -3.03487
+ phi of hf: -0.791189
+ cosh(high_pt_gsf_electron.eta()-high_pt_hf_electron.eta()): 7.73726
+cos(high_pt_gsf_electron.phi()-high_pt_hf_electron.phi()): -2.24368
+predicted energy of HF electron: 190.887
+RECO 	pt of HF electron: 190.887
+------------------------------------
+Loose2D: 0.761858
+Loose2D: 0.871126
+HFLOOSE is true  found highest transverse momentum HF electron: 18.7969 and GSF electron: 22.426  
+test cosh of Pi/3:1.59962
+P of highest pt gsf electron: 69.4149
+Pz of highest pt gsf electron: 65.6925
+ Pt of highest pt gsf electron: 22.426
+P of highest pt Hf electron: 240.059
+Pz of highest pt Hf electron: 239.322
+Pt of highest pt hf electron: 18.7969
+ Z MASS calculated from highest pt electrons: 51.3326
+eta of gsf: 1.79585  in radian: 0.328973
+eta of hf: 3.2388  in radian: 0.0783814
+cosh pt_gsf_e.eta: 3.0953
+cosh pt_hf_e.eta: 12.7712
+ phi of gsf: 2.19065
+ phi of hf: -0.479261
+ cosh(high_pt_gsf_electron.eta()-high_pt_hf_electron.eta()): 2.2347
+cos(high_pt_gsf_electron.phi()-high_pt_hf_electron.phi()): 2.66991
+predicted energy of HF electron: 240.059
+RECO 	pt of HF electron: 240.059
+------------------------------------
+Loose2D: 0.802855
+Loose2D: 0.798217
+Loose2D: 0.937131
+HFLOOSE is true  Loose2D: 0.803508
+Loose2D: 0.780943
+Loose2D: 0.635735
+Loose2D: 0.75469
+Loose2D: 0.930922
+HFLOOSE is true  Loose2D: 0.520008
+Loose2D: 0.706099
+Loose2D: 0.651625
+Loose2D: 0.58458
+Loose2D: 0.74337
+Loose2D: 0.731136
+Loose2D: 0.737997
+Loose2D: 0.780786
+Loose2D: 0.693436
+Loose2D: 0.480989
+Loose2D: 0.633285
+Loose2D: 0.806728
+Loose2D: 0.766672
+Loose2D: 0.683551
+Loose2D: 0.686553
+Loose2D: 0.794032
+Loose2D: 0.627992
+Loose2D: 0.824477
+HFLOOSE is true  Loose2D: 0.805155
+Loose2D: 0.64969
+Loose2D: 0.815441
+HFLOOSE is true  Loose2D: 0.706583
+Loose2D: 0.669651
+Loose2D: 0.746233
+Loose2D: 0.892802
+HFLOOSE is true  Loose2D: 0.742648
+Loose2D: 0.627866
+Loose2D: 0.776788
+Loose2D: 0.810315
+Loose2D: 0.599767
+Loose2D: 0.969233
+HFLOOSE is true  Loose2D: 0.629603
+Loose2D: 0.59709
+Loose2D: 0.69927
+Loose2D: 0.821129
+HFLOOSE is true  Loose2D: 0.622799
+found highest transverse momentum HF electron: 17.0972 and GSF electron: 49.991  
+test cosh of Pi/3:1.59962
+P of highest pt gsf electron: 82.6856
+Pz of highest pt gsf electron: 65.8621
+ Pt of highest pt gsf electron: 49.991
+P of highest pt Hf electron: 211.188
+Pz of highest pt Hf electron: 210.495
+Pt of highest pt hf electron: 17.0972
+ Z MASS calculated from highest pt electrons: 91.266
+eta of gsf: 1.08906  in radian: 0.649253
+eta of hf: 3.20534  in radian: 0.0810459
+cosh pt_gsf_e.eta: 1.65401
+cosh pt_hf_e.eta: 12.3522
+ phi of gsf: -2.56288
+ phi of hf: 1.42551
+ cosh(high_pt_gsf_electron.eta()-high_pt_hf_electron.eta()): 4.21033
+cos(high_pt_gsf_electron.phi()-high_pt_hf_electron.phi()): 2.29479
+predicted energy of HF electron: 211.188
+RECO 	pt of HF electron: 211.188
+------------------------------------
+Loose2D: 0.701136
+Loose2D: 0.728862
+Loose2D: 0.768005
+Loose2D: 0.69098
+found highest transverse momentum HF electron: 18.3022 and GSF electron: 25.0274  
+test cosh of Pi/3:1.59962
+P of highest pt gsf electron: 62.9593
+Pz of highest pt gsf electron: -57.7711
+ Pt of highest pt gsf electron: 25.0274
+P of highest pt Hf electron: 500.349
+Pz of highest pt Hf electron: -500.015
+Pt of highest pt hf electron: 18.3022
+ Z MASS calculated from highest pt electrons: 78.1153
+eta of gsf: -1.57359  in radian: 2.73278
+eta of hf: -4.0011  in radian: 3.10501
+cosh pt_gsf_e.eta: 2.51562
+cosh pt_hf_e.eta: 27.3382
+ phi of gsf: -1.93223
+ phi of hf: 1.52269
+ cosh(high_pt_gsf_electron.eta()-high_pt_hf_electron.eta()): 5.70943
+cos(high_pt_gsf_electron.phi()-high_pt_hf_electron.phi()): 2.82826
+predicted energy of HF electron: 500.35
+RECO 	pt of HF electron: 500.349
+------------------------------------
+Loose2D: 0.839643
+HFLOOSE is true  Loose2D: 0.69869
+found highest transverse momentum HF electron: 19.2485 and GSF electron: 30.5609  
+test cosh of Pi/3:1.59962
+P of highest pt gsf electron: 86.031
+Pz of highest pt gsf electron: 80.42
+ Pt of highest pt gsf electron: 30.5609
+P of highest pt Hf electron: 520.163
+Pz of highest pt Hf electron: 519.807
+Pt of highest pt hf electron: 19.2485
+ Z MASS calculated from highest pt electrons: 78.9356
+eta of gsf: 1.69498  in radian: 0.363161
+eta of hf: 3.98951  in radian: 0.0370132
+cosh pt_gsf_e.eta: 2.81507
+cosh pt_hf_e.eta: 27.0235
+ phi of gsf: -0.334118
+ phi of hf: 1.52647
+ cosh(high_pt_gsf_electron.eta()-high_pt_hf_electron.eta()): 5.01031
+cos(high_pt_gsf_electron.phi()-high_pt_hf_electron.phi()): -1.86058
+predicted energy of HF electron: 520.163
+RECO 	pt of HF electron: 520.163
+------------------------------------
+Loose2D: 0.584371
+Loose2D: 0.856825
+HFLOOSE is true  Loose2D: 0.795558
+Loose2D: 0.705855
+Loose2D: 0.848654
+HFLOOSE is true  Loose2D: 0.825345
+HFLOOSE is true  found highest transverse momentum HF electron: 17.0518 and GSF electron: 21.753  
+test cosh of Pi/3:1.59962
+P of highest pt gsf electron: 25.2364
+Pz of highest pt gsf electron: 12.7939
+ Pt of highest pt gsf electron: 21.753
+P of highest pt Hf electron: 258.043
+Pz of highest pt Hf electron: 257.479
+Pt of highest pt hf electron: 17.0518
+ Z MASS calculated from highest pt electrons: 84.7195
+eta of gsf: 0.558633  in radian: 1.03914
+eta of hf: 3.40892  in radian: 0.0661294
+cosh pt_gsf_e.eta: 1.16014
+cosh pt_hf_e.eta: 15.1329
+ phi of gsf: -2.78154
+ phi of hf: 0.388382
+ cosh(high_pt_gsf_electron.eta()-high_pt_hf_electron.eta()): 8.67532
+cos(high_pt_gsf_electron.phi()-high_pt_hf_electron.phi()): 3.11326
+predicted energy of HF electron: 258.043
+RECO 	pt of HF electron: 258.043
+------------------------------------
+Loose2D: 0.748504
+Loose2D: 0.694018
+found highest transverse momentum HF electron: 17.4039 and GSF electron: 24.9038  
+test cosh of Pi/3:1.59962
+P of highest pt gsf electron: 66.9249
+Pz of highest pt gsf electron: -62.1188
+ Pt of highest pt gsf electron: 24.9038
+P of highest pt Hf electron: 636.174
+Pz of highest pt Hf electron: -635.936
+Pt of highest pt hf electron: 17.4039
+ Z MASS calculated from highest pt electrons: 83.7148
+eta of gsf: -1.64513  in radian: 2.7603
+eta of hf: -4.29174  in radian: 3.11423
+cosh pt_gsf_e.eta: 2.68733
+cosh pt_hf_e.eta: 36.5535
+ phi of gsf: 0.823884
+ phi of hf: -2.23009
+ cosh(high_pt_gsf_electron.eta()-high_pt_hf_electron.eta()): 7.08851
+cos(high_pt_gsf_electron.phi()-high_pt_hf_electron.phi()): 3.05397
+predicted energy of HF electron: 636.174
+RECO 	pt of HF electron: 636.174
+------------------------------------
+Loose2D: 0.835267
+HFLOOSE is true  Loose2D: 0.79613
+Loose2D: 0.648526
+Loose2D: 0.54735
+Loose2D: 0.748532
+Loose2D: 0.725584
+found highest transverse momentum HF electron: 16.9525 and GSF electron: 35.2309  
+test cosh of Pi/3:1.59962
+P of highest pt gsf electron: 92.9421
+Pz of highest pt gsf electron: -86.0059
+ Pt of highest pt gsf electron: 35.2309
+P of highest pt Hf electron: 482.4
+Pz of highest pt Hf electron: -482.102
+Pt of highest pt hf electron: 16.9525
+ Z MASS calculated from highest pt electrons: 87.4257
+eta of gsf: -1.62517  in radian: 2.75281
+eta of hf: -4.0412  in radian: 3.10644
+cosh pt_gsf_e.eta: 2.63808
+cosh pt_hf_e.eta: 28.456
+ phi of gsf: 0.755055
+ phi of hf: -1.66899
+ cosh(high_pt_gsf_electron.eta()-high_pt_hf_electron.eta()): 5.64526
+cos(high_pt_gsf_electron.phi()-high_pt_hf_electron.phi()): 2.42405
+predicted energy of HF electron: 482.4
+RECO 	pt of HF electron: 482.4
+------------------------------------
+Loose2D: 0.635475
+found highest transverse momentum HF electron: 18.611 and GSF electron: 40.8157  
+test cosh of Pi/3:1.59962
+P of highest pt gsf electron: 63.8852
+Pz of highest pt gsf electron: 49.1467
+ Pt of highest pt gsf electron: 40.8157
+P of highest pt Hf electron: 211.691
+Pz of highest pt Hf electron: 210.871
+Pt of highest pt hf electron: 18.611
+ Z MASS calculated from highest pt electrons: 83.4188
+eta of gsf: 1.0186  in radian: 0.693056
+eta of hf: 3.12258  in radian: 0.0880296
+cosh pt_gsf_e.eta: 1.56521
+cosh pt_hf_e.eta: 11.3745
+ phi of gsf: 2.06326
+ phi of hf: 0.0589864
+ cosh(high_pt_gsf_electron.eta()-high_pt_hf_electron.eta()): 4.16035
+cos(high_pt_gsf_electron.phi()-high_pt_hf_electron.phi()): 2.00427
+predicted energy of HF electron: 211.691
+RECO 	pt of HF electron: 211.691
+------------------------------------
+Loose2D: 0.830251
+HFLOOSE is true  Loose2D: 0.76214
+Loose2D: 0.555207
+Loose2D: 0.666313
+Loose2D: 0.78368
+Loose2D: 0.945805
+HFLOOSE is true  Loose2D: 0.684717
+Loose2D: 0.690534
+Loose2D: 0.629926
+Loose2D: 0.877365
+HFLOOSE is true  Loose2D: 0.89254
+HFLOOSE is true  Loose2D: 0.749621
+Loose2D: 0.818869
+HFLOOSE is true  Loose2D: 0.643695
+Loose2D: 0.709962
+Loose2D: 0.764628
+Loose2D: 0.695318
+Loose2D: 0.8758
+HFLOOSE is true  Loose2D: 0.633997
+Loose2D: 0.586184
+Loose2D: 0.808317
+Loose2D: 0.601075
+Loose2D: 0.810879
+Loose2D: 0.765694
+Loose2D: 0.716172
+Loose2D: 0.766234
+Loose2D: 0.892191
+HFLOOSE is true  found highest transverse momentum HF electron: 11.9982 and GSF electron: 51.233  
+test cosh of Pi/3:1.59962
+P of highest pt gsf electron: 97.9721
+Pz of highest pt gsf electron: -83.5088
+ Pt of highest pt gsf electron: 51.233
+P of highest pt Hf electron: 195.022
+Pz of highest pt Hf electron: 194.652
+Pt of highest pt hf electron: 11.9982
+ Z MASS calculated from highest pt electrons: 268.204
+eta of gsf: -1.26477  in radian: 2.5913
+eta of hf: 3.48055  in radian: 0.0615613
+cosh pt_gsf_e.eta: 1.91229
+cosh pt_hf_e.eta: 16.2542
+ phi of gsf: -1.72095
+ phi of hf: 1.24214
+ cosh(high_pt_gsf_electron.eta()-high_pt_hf_electron.eta()): 57.5266
+cos(high_pt_gsf_electron.phi()-high_pt_hf_electron.phi()): -2.96309
+predicted energy of HF electron: 195.022
+RECO 	pt of HF electron: 195.022
+------------------------------------
+Loose2D: 0.60747
+found highest transverse momentum HF electron: 19.9439 and GSF electron: 30.0643  
+test cosh of Pi/3:1.59962
+P of highest pt gsf electron: 48.6108
+Pz of highest pt gsf electron: -38.1989
+ Pt of highest pt gsf electron: 30.0643
+P of highest pt Hf electron: 325.904
+Pz of highest pt Hf electron: -325.293
+Pt of highest pt hf electron: 19.9439
+ Z MASS calculated from highest pt electrons: 89.6124
+eta of gsf: -1.06038  in radian: 2.4748
+eta of hf: -3.48589  in radian: 3.08036
+cosh pt_gsf_e.eta: 1.6169
+cosh pt_hf_e.eta: 16.3411
+ phi of gsf: 2.82659
+ phi of hf: -0.373899
+ cosh(high_pt_gsf_electron.eta()-high_pt_hf_electron.eta()): 5.69821
+cos(high_pt_gsf_electron.phi()-high_pt_hf_electron.phi()): -3.0827
+predicted energy of HF electron: 325.904
+RECO 	pt of HF electron: 325.904
+------------------------------------
+Loose2D: 0.875162
+HFLOOSE is true  Loose2D: 0.725527
+Loose2D: 0.89095
+HFLOOSE is true  Loose2D: 0.776821
+Loose2D: 0.686051
+Loose2D: 0.545157
+Loose2D: 0.645424
+Loose2D: 0.806212
+Loose2D: 0.518271
+Loose2D: 0.614431
+Loose2D: 0.694445
+Loose2D: 0.643072
+Loose2D: 0.753183
+Loose2D: 0.749555
+Loose2D: 0.643541
+Loose2D: 0.717657
+found highest transverse momentum HF electron: 18.3154 and GSF electron: 39.2907  
+test cosh of Pi/3:1.59962
+P of highest pt gsf electron: 110.947
+Pz of highest pt gsf electron: 103.756
+ Pt of highest pt gsf electron: 39.2907
+P of highest pt Hf electron: 555.893
+Pz of highest pt Hf electron: 555.591
+Pt of highest pt hf electron: 18.3154
+ Z MASS calculated from highest pt electrons: 89.6796
+eta of gsf: 1.69827  in radian: 0.361995
+eta of hf: 4.10571  in radian: 0.0329536
+cosh pt_gsf_e.eta: 2.82374
+cosh pt_hf_e.eta: 30.3512
+ phi of gsf: -2.06627
+ phi of hf: 2.65595
+ cosh(high_pt_gsf_electron.eta()-high_pt_hf_electron.eta()): 5.59778
+cos(high_pt_gsf_electron.phi()-high_pt_hf_electron.phi()): 1.56097
+predicted energy of HF electron: 555.893
+RECO 	pt of HF electron: 555.893
+------------------------------------
+Loose2D: 0.735856
+Loose2D: 0.877214
+HFLOOSE is true  Loose2D: 0.680386
+Loose2D: 0.671791
+Loose2D: 0.506294
+Loose2D: 0.903057
+HFLOOSE is true  Loose2D: 0.683277
+Loose2D: 0.819003
+HFLOOSE is true  Loose2D: 0.602747

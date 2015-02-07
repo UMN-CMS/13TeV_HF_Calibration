@@ -1,0 +1,999 @@
+    1  ls
+    2  cd My
+    3  mkdir /usb
+    4  cd /My Documents
+    5  cdcd /My Documents
+    6  cd /My Documents
+    7  cd/
+    8  cd
+    9  cd /My Documents
+   10  lsblk
+   11  df/usb
+   12  df /usb
+   13  df /ome
+   14  df /home
+   15  df /qnguyen
+   16  df /qnguyen
+   17  df /home
+   18  df
+   19  df
+   20  ls
+   21  cd home
+   22  cd /home
+   23  ls
+   24  cd qnguyen
+   25  ls
+   26  mkdir usb
+   27  ls
+   28  sudo mount/dev/sdb1 /usb
+   29  mount /dev/sdb1 /usb
+   30  dd if=/diskboot.img of=/dev/sdb1
+   31  dd if=/home/diskboot.img of=/dev/sdb1
+   32  dd if=/home/qnguyen/home/diskboot.img of=/dev/sdb1
+   33  dd if=/home/qnguyen/diskboot.img of=/dev/sdb1
+   34  dd if=/home/qnguyen/diskboot.img of=/root/media/SL
+   35  dd if=/home/qnguyen/diskboot.img of=/dev/sdb1
+   36  dd if=/home/qnguyen/diskboot.img of=/root/media/SL
+   37  dd if=/home/qnguyen/diskboot.img of=/media/SL
+   38  dd if=/home/qnguyen/diskboot.img of=/dev/sdb1
+   39  dd if=/home/qnguyen/diskboot.img of=/dev/sdb1
+   40  $ gconftool-2 -t str set /apps/metacity/global_keybindings/show_desktop “d”
+   41  firefox onestop.umn.edu
+   42  wget "ftp.scientificlinux.org/linux/scientific/6.0/i386/os/Packages/openoffice.org-core-3.2.1-19.6.el6.i686.rpm" media/live
+   43  ls
+   44  cp OpenOffice_3.4.1_Linux_x86_install-rpm_en-US.tar.gz /media/LIVE
+   45  cp openoffice.org-core-3.2.1-19.6.el6_2.7.i686.rpm /media/LIVE
+   46  ls
+   47  rm Open*
+   48  ls
+   49  ls open*
+   50  rm open*
+   51  ls
+   52  octave
+   53  ls /media/live
+   54  ls media/live
+   55  ls
+   56  ls
+   57  copy openoffice.org-core-3.2.1-19.6.el6.i686.rpm media/LIVE
+   58  cp openoffice.org-core-3.2.1-19.6.el6.i686.rpm media/LIVE
+   59  cp openoffice.org-core-3.2.1-19.6.el6.i686.rpm /media/LIVE
+   60  ls
+   61  ls -l openoffice.org-core-3.2.1-19.6.el6.i686.rpm
+   62  wget "ftp.scientificlinux.org/linux/scientific/6.2/i386/updates/security/openoffice.org-core-3.2.1-19.6.el6_2.7.i686.rpm" /media/LIVE
+   63  wget http://sourceforge.net/projects/openofficeorg.mirror/files/stable/3.4.1/Apache_OpenOffice_incubating_3.4.1_Linux_x86_install-rpm_en-US.tar.gz/download -O OpenOffice_3.4.1_Linux_x86_install-rpm_en-US.tar.gz
+   64  yum install libreoffice-base libreoffice-writer             libreoffice-calc libreoffice-impress
+   65  ls
+   66  ;s
+   67  ls
+   68  ls /home
+   69  ls /home/qnguyen
+   70  ls /home/qnguyen/desktop
+   71  ls /home/qnguyen/Desktop
+   72  ls Downloads
+   73  ls /Downloads
+   74  ls /home/qnguyen/Downloads
+   75  copy ROOT* /home/qnguyen/Downloads /home/qnguyen/Desktop
+   76  cp ROOT* /home/qnguyen/Downloads /home/qnguyen/Desktop
+   77  cp *.* /home/qnguyen/Downloads /home/qnguyen/Desktop
+   78  cp ROOTUserGuideA4.pdf /home/qnguyen/Downloads /home/qnguyen/Desktop
+   79  cp ROOTUsersGuideA4.pdf /home/qnguyen/Downloads /home/qnguyen/Desktop
+   80  cp /home/qnguyen/Downloads/*.* /home/qnguyen/Desktop
+   81  ls /home/qnguyen/Desktop
+   82  Acrobat
+   83  time
+   84  xterm &
+   85  term &
+   86  term &
+   87  ;s
+   88  ls
+   89  root
+   90  ssh cmslab3.spa.umn.edu
+   91  ssh daq@cmslab3.spa.umn.edu
+   92  ssh daq@cmslab3.spa.umn.edu
+   93  ssh daq@cmslab3.spa.umn.edu
+   94  ssh daq@cmslab3.spa.umn.edu
+   95  ssh daq@cmslab3.spa.umn.edu
+   96  ls
+   97  gedit AnalyzeHistogram.C
+   98  gedit AnalyzeHistogram.C
+   99  daq@cmslab2.spa.umn.edu
+  100  ssh daq@cmslab2.spa.umn.edu
+  101  ssh daq@cmslab3.spa.umn.edu
+  102  ls
+  103  gedit AnalyzeHistogram.C
+  104  gedit AnalyzeHistogram.C
+  105  gedit AnalyzeHistogram.C
+  106  gedit AnalyzeHistogram.C
+  107  gedit AnalyzeHistogram.C
+  108  gedit Canvas_1.C 
+  109  rm Canvas_1.C 
+  110  ls
+  111  ls
+  112  gedit Canvas_1.C 
+  113  gedit Canvas_1.C 
+  114  ls
+  115  ls
+  116  gedit AnalyzeHistogram.C
+  117  ls
+  118  gedit AnalyzeVariables.C
+  119  gedit AnalyzeHistogram.C
+  120  root
+  121  root
+  122  root
+  123  root
+  124  root
+  125  root
+  126  root
+  127  root
+  128  root
+  129  root
+  130  root
+  131  root
+  132  root
+  133  root
+  134  root
+  135  root
+  136  root
+  137  root
+  138  root
+  139  root
+  140  root
+  141  root
+  142  root
+  143  root
+  144  root
+  145  root
+  146  root
+  147  root
+  148  root
+  149  wget http://www.nevis.columbia.edu/~seligman/root-class/files/experiment.root
+  150  ls
+  151  cd ~/root/macro
+  152  cd /
+  153  ls
+  154  cd root
+  155  cd /home
+  156  ls
+  157  cd qnguyen/
+  158  ls
+  159  cd usb/
+  160  ls
+  161  cd ..
+  162  ls
+  163  ls
+  164  cd Documents/
+  165  ls
+  166  ls
+  167  cp Analyze.C Analyze.Histogram.C
+  168  ls
+  169  cp Analyze.C AnalyzeHistogram.C
+  170  ls
+  171  rm Analyze.Histogram.C 
+  172  ls
+  173  geit AnalyzeHistogram.C 
+  174  gedit AnalyzeHistogram.C 
+  175  ls
+  176  gedit Canvas_1.C 
+  177  gedit Canvas_1.C 
+  178  gedit AnalyzeHistogram.C
+  179  cd
+  180  ls
+  181  cd /
+  182  ls
+  183  cd usr
+  184  ls
+  185  cd share
+  186  ls
+  187  cd root
+  188  ls
+  189  cd
+  190  ls
+  191  cd Documents/
+  192  ls
+  193  gedit AnalyzeHistogram.C
+  194  gedit AnalyzeHistogram.C
+  195  ls
+  196  gedit Canvas_1.C 
+  197  gedit AnalyzeHistogram.C
+  198  gedit AnalyzeHistogram.C
+  199  gedit Canvas_1.C 
+  200  gedit AnalyzeHistogram.C
+  201  rm Canvas_1
+  202  rm Canvas_1.C
+  203  ls
+  204  gedit  Canvas_1.C
+  205  gedit AnalyzeHistogram.C
+  206  cp Analyze.C AnalyzeVariables.C
+  207  ls
+  208  gedit AnalyzeVariables.C 
+  209  gedit AnalyzeVariables.C 
+  210  ls
+  211  ls
+  212  cd
+  213  ls
+  214  cd Do
+  215  cd Documents/
+  216  ls
+  217  ls
+  218  ls
+  219  ls
+  220  cd
+  221  ls
+  222  cd Downloads/
+  223  ls
+  224  make
+  225  less makefile 
+  226  gedit makefile 
+  227  ls
+  228   make
+  229  make
+  230  gedit makefile 
+  231  l
+  232  ls
+  233  make
+  234  gedit makefile 
+  235  make
+  236  vi makefile
+  237  make
+  238  vi makefile
+  239  ls
+  240  cd
+  241  ls
+  242  cd Downloads/
+  243  ls
+  244  make
+  245  make
+  246  make
+  247  make
+  248  vi makefile
+  249  daq@cmslab3.spa.umn.edu
+  250  ssh daq@cmslab3.spa.umn.edu
+  251  ls
+  252  cd ..
+  253  ls
+  254  cd Downloads/
+  255  ls
+  256  gedit makefile
+  257  gedit LogPlotter.cc 
+  258  rm LogPlotter.cc makefile
+  259  ls
+  260  rm LogParser.py 
+  261  ls
+  262  make
+  263  ls
+  264  cd ..
+  265  ls
+  266  cd Documents/
+  267  ls
+  268  make
+  269  gedit makefile
+  270  make\
+  271  ssh daq@cmslab2.spa.umn.edu
+  272  ssh daq@cmslab3.spa.umn.edu
+  273  scp daq@cmslab3.spa.umn.edu:~/hcalUHTR/tool/moduleCheckSUB20/PowerMezz-00-1e-c0-89-4a-5d.txt $PWD
+  274  ls
+  275  LogPlotter.exe -i PowerMezz-00-1e-c0-89-4a-5d.txt -o PowerMezz-00-1e-c0-89-4a-5d.root
+  276  LogPlotter.exe experiment.root -o PowerMezz-00-1e-c0-89-4a-5d.png
+  277  LogPlotter.exe /experiment.root -o PowerMezz-00-1e-c0-89-4a-5d.png
+  278  . LogPlotter.exe experiment.root -o PowerMezz-00-1e-c0-89-4a-5d.png
+  279  ls
+  280  make
+  281  ls
+  282  . LogPlotter.exe
+  283  root
+  284  . LogPlotter.exe
+  285  ls
+  286  python
+  287  ssh daq@cmslab3.spa.umn.edu
+  288  gedit
+  289  ls
+  290  ssh daq@cmslab3.spa.umn.edu
+  291  exit
+  292  ssh adss100775.dpcp.fnal.gov
+  293  ssh adss100775.dhcp.fnal.gov
+  294  kinit
+  295  klist
+  296  cd ~
+  297  ls
+  298  python
+  299  ls
+  300  ~gude
+  301  cd ~gude/
+  302  ls
+  303  cp .bashrc_local ~
+  304  cd ~
+  305  ls
+  306  ls -a 
+  307  gedit .bashrc
+  308  exit
+  309  ls
+  310  ls cmssw/CMSSW_7_1_0_pre5/
+  311  ls
+  312  cd cmssw/CMSSW_7_1_0_pre5/
+  313  ls
+  314  ls python
+  315  gedit .bashrc
+  316  gedit .bashrc_local &
+  317  source .bashrc_local
+  318  source ./.bashrc_local
+  319  ./
+  320  ls ./
+  321  ls ./.bashrc_local
+  322  cmssw
+  323  ls
+  324  mkdir cmssw
+  325  ls
+  326  cd cmssw/
+  327  ls
+  328  scram p list 
+  329  scram p list CMSSW
+  330  scram p list LIST
+  331  cmssw
+  332  cmsrel list 
+  333  man cmsrel
+  334  cmsrel --help
+  335  scram list CMSSW
+  336  echo $SCRAM_ARCH
+  337  SCRAM_ARCH=slc5_amd64_gcc481
+  338  scram list CMSSW
+  339  vi ../.bashrc_local
+  340  source ../.bas
+  341  echo $SCRAM_ARCH
+  342  scram p CMSSW_7_1_0_pre5
+  343  ls
+  344  cd CMSSW_7_1_0_pre5/
+  345  ls
+  346  cd src/
+  347  ls
+  348  cmsenv
+  349  ls
+  350  mkedanlzr 
+  351  mkdir base
+  352  cd base/
+  353  mkedanlzr 
+  354  ls
+  355  cd calib/
+  356  ls
+  357  ls plugins/
+  358  gedit plugins/calib.cc &
+  359  scram b 
+  360  scram b 
+  361  ls
+  362  cd plugins/
+  363  ls
+  364  gedit BuildFile.xml &
+  365  cd ..
+  366  scram b 
+  367  ls
+  368  ls python/
+  369  ls
+  370  cd python/
+  371  lt
+  372  cat *
+  373  ls
+  374  cat *py
+  375  clear
+  376  cat *py
+  377  ls
+  378  ls -l
+  379  cmsRun ConfFile_cfg.py
+  380  gedit ConfFile_cfg.py
+  381  gedit ConfFile_cfg.py &
+  382  cd /hdfs/cms/phedex/store/relval/
+  383  ls
+  384  cd CMSSW_7_0_0_pre11/RelValZEE_13/GEN-SIM-DIGI-RAW-HLTDEBUG/PU50ns_POSTLS162_V5_OldTrk-v1/00000/
+  385  ls
+  386  pwd
+  387  cd -
+  388  ls /hdfs/cms/phedex/store/relval/CMSSW_7_0_0_pre11/RelValZEE_13/GEN-SIM-DIGI-RAW-HLTDEBUG/PU50ns_POSTLS162_V5_OldTrk-v1/00000/B421C3BE-6C6A-E311-881D-0025904B0F50.root
+  389  ls
+  390  ls
+  391  cd ~/cmssw/CMSSW_7_1_0_pre5/src/base/calib/
+  392  ls
+  393  cmsRun python/ConfFile_cfg.py
+  394  cat python/ConfFile_cfg.py
+  395  edmDumpEventContent /hdfs/cms/phedex/store/relval/CMSSW_7_0_0_pre11/RelValZEE_13/GEN-SIM-DIGI-RAW-HLTDEBUG/PU50ns_POSTLS162_V5_OldTrk-v1/00000/B421C3BE-6C6A-E311-881D-0025904B0F50.root
+  396  edmDumpEventContent /hdfs/cms/phedex/store/relval/CMSSW_7_0_0_pre11/RelValZEE_13/GEN-SIM-DIGI-RAW-HLTDEBUG/PU50ns_POSTLS162_V5_OldTrk-v1/00000/B421C3BE-6C6A-E311-881D-0025904B0F50.root | less
+  397  vi python/ConfFile_cfg.py
+  398  cmsRun less
+  399  cmsRun python/ConfFile_cfg.py
+  400  cmsRun python/ConfFile_cfg.py
+  401  scram b 
+  402  scram b 
+  403  cd /hdfs/cms/phedex/store/mc/Summer12_DR53X/DYToEE_M-20_CT10_TuneZ2star_8TeV-powheg-pythia6/AODSIM/PU_S10_START53_V7A-v1/0000/
+  404  ls
+  405  root
+  406  cd ~
+  407  ls
+  408  cd cmssw/CMSSW_7_1_0_pre5/
+  409  edmDumpEventContent /hdfs/cms/phedex/store/mc/Summer12_DR53X/DYToEE_M-20_CT10_TuneZ2star_8TeV-powheg-pythia6/AODSIM/PU_S10_START53_V7A-v1/0000/02E2D67B-22F0-E111-B169-90E6BA442F3F.root | less
+  410  scram b 
+  411  scram b 
+  412  scram b 
+  413  scram b 
+  414  edmDumpEventContent /hdfs/cms/phedex/store/mc/Summer12_DR53X/DYToEE_M-20_CT10_TuneZ2star_8TeV-powheg-pythia6/AODSIM/PU_S10_START53_V7A-v1/0000/02E2D67B-22F0-E111-B169-90E6BA442F3F.root | less
+  415  edmDumpEventContent /hdfs/cms/phedex/store/mc/Summer12_DR53X/DYToEE_M-20_CT10_TuneZ2star_8TeV-powheg-pythia6/AODSIM/PU_S10_START53_V7A-v1/0000/02E2D67B-22F0-E111-B169-90E6BA442F3F.root > temp.txt &
+  416  gedit temp.txt &
+  417  scram b 
+  418  scram b 
+  419  scram b 
+  420  cd base/calid
+  421  ls
+  422  cd src/base/calib/
+  423  cmsRun python/ConfFile_cfg.py
+  424  scram b 
+  425  scram b 
+  426  scram b 
+  427  cmsRun python/ConfFile_cfg.py
+  428  scram b 
+  429  scram b 
+  430  cmsRun python/ConfFile_cfg.py
+  431  scram b 
+  432  cmsRun python/ConfFile_cfg.py
+  433  scram b 
+  434  cmsRun python/ConfFile_cfg.py
+  435  scram b 
+  436  cmsRun python/ConfFile_cfg.py
+  437  ls
+  438  scram b 
+  439  cmsRun python/ConfFile_cfg.py
+  440  scram b 
+  441  cmsRun python/ConfFile_cfg.py
+  442  scram b 
+  443  cmsRun python/ConfFile_cfg.py
+  444  scram b 
+  445  cmsRun python/ConfFile_cfg.py
+  446  scram b 
+  447  cmsRun python/ConfFile_cfg.py
+  448  scram b 
+  449  scram b 
+  450  scram b 
+  451  scram b 
+  452  scram b 
+  453  scram b 
+  454  scram b 
+  455  scram b 
+  456  scram b 
+  457  scram b 
+  458  scram b 
+  459  scram b 
+  460  scram b 
+  461  scram b 
+  462  scram b 
+  463  history
+  464  gedit history.txt
+  465  ls
+  466  more history.txt
+  467  ls
+  468  cd cmssw/
+  469  ls
+  470  cd CMSSW_7_1_0_pre5/
+  471  ls
+  472  cd src/
+  473  ls
+  474  cd base/
+  475  ls
+  476  cd calib/
+  477  ls
+  478  cd plugins/
+  479  ls
+  480  cd ..
+  481  gedit ~/jump.sh
+  482  gedit ~jump.sh
+  483  ls
+  484  cd plugins/
+  485  ls
+  486  cd ..
+  487  cd python/
+  488  ls
+  489  cd ..
+  490  ls
+  491  history
+  492  exit
+  493  ls -h
+  494  ls *
+  495  ls
+  496  ls -l Downloads/
+  497  ls
+  498  ls -a
+  499  ls -l .ssh
+  500  cd .ssh
+  501  ls
+  502  pwd
+  503  ls
+  504  cd ..
+  505  pwd
+  506  ls -l .ssh
+  507  cat .ssh/id_rsa.pub >> .ssh/authorized_keys
+  508  exit
+  509  exit
+  510  ls
+  511  cd cmssw/CMSSW_7_1_0_pre5/src/base/calib/plugins/
+  512  ls
+  513  gedit calib.cc &
+  514  exit
+  515  ls
+  516  gedit env.sh &
+  517  sh env.sh
+  518  ls
+  519  sh env.sh
+  520  sh env.sh
+  521  source env.sh
+  522  source env.sh
+  523  cd cmssw/CMSSW_7_1_0_pre5/src/
+  524  cd base/calib/
+  525  ls
+  526  exit
+  527  ls
+  528  source env.sh
+  529  ls
+  530  cd plugins/
+  531  ls
+  532  gedit calib.cc
+  533  exit
+  534  ls
+  535  source env.sh
+  536  cd plugins/
+  537  gedit calib.cc
+  538  gedit calib.cc &
+  539  gedit -help
+  540  gedit --help
+  541  exit
+  542  ls
+  543  source env.sh
+  544  cd plugins/
+  545  gedit calib.cc
+  546  exit
+  547  source env.sh
+  548  cd plugins/
+  549  gedit calib.cc
+  550  exit
+  551  source env.sh
+  552  ls
+  553  cd plugins/
+  554  ls
+  555  gedit calib.cc &
+  556  exit
+  557  ls
+  558  echo $SCRAM_ARCH
+  559  source ./.bashrc_local
+  560  source env.sh
+  561  ls
+  562  scram b
+  563  cms env
+  564  cd ../..
+  565  cmsenv
+  566  cmssw
+  567  cmsenv
+  568  cd base/calib/
+  569  ls
+  570  scram b
+  571  cd ~
+  572  gedit env.sh
+  573  exit
+  574  source env.sh
+  575  cd plugins/
+  576  ls
+  577  gedit calib.cc &
+  578  ls
+  579  vi calib.cc
+  580  gedit calib.cc &
+  581  vi calib.cc
+  582  cd ..
+  583  ls
+  584  scram b
+  585  cd plugins/
+  586  scram b
+  587  cd ..
+  588  cd ../..
+  589  cd ../..
+  590  ls
+  591  cd ..
+  592  ls
+  593  more history.txt
+  594  ls -a
+  595  source .bashrc_local
+  596  source env.sh
+  597  ls
+  598  scram b
+  599  scram b
+  600  cd ~
+  601  ls
+  602  more history.txt
+  603  ls
+  604  vi env.sh
+  605  exit
+  606  ls
+  607  gedit env.sh
+  608  ls
+  609  source env.sh
+  610  gedit plugins/calib.cc &
+  611  exit
+  612  ls
+  613  exit
+  614  ls
+  615  source env.sh
+  616  gedit plugins/calib.cc
+  617  exit
+  618  ls
+  619  gedit env.sh
+  620  ls
+  621  source env.sh
+  622  scram b
+  623  ls
+  624  cmsRun python/ConfFile_cfg.py
+  625  gedit plugins/calib.cc
+  626  exit
+  627  ls
+  628  ls -l .ssh
+  629  exit
+  630  exit
+  631  exit
+  632  ls
+  633  ls -l .ssh
+  634  pwd
+  635  ls -l .ssh
+  636  cat .ssh/id_rsa.pub >> .ssh/authorized_keys 
+  637  more .ssh/authorized_keys 
+  638  ls -l .ssh
+  639  ls -l .ssh
+  640  cat .ssh/id_rsa.pub >> .ssh/authorized_keys 
+  641  exit
+  642  exit
+  643  exit
+  644  exit
+  645  ls
+  646  exit
+  647  ls -l .ssh/
+  648  cat .ssh/id_rsa.pub >> .ssh/authorized_keys 
+  649  pwd
+  650  ls -l .ssh/
+  651  cat .ssh/id_rsa.pub >> .ssh/authorized_keys 
+  652  ls -l .ssh/
+  653  cat .ssh/id_rsa.pub >> .ssh/authorized_keys 
+  654  gedit .ssh/authorized_keys 
+  655  gedit .ssh/authorized_keys 
+  656  exit
+  657  ls
+  658  source env.sh
+  659  gedit plugins/calib.cc
+  660  ls
+  661  source env.sh
+  662  gedit plugins/calib.cc
+  663  gedit plugins/calib.cc
+  664  gedit plugins/calib.cc
+  665  gedit plugins/calib.cc
+  666  exit
+  667  source env.sh
+  668  gedit plugins/calib.cc
+  669  scram b 
+  670  gedit plugins/calib.cc &
+  671  scram b 
+  672  scram b 
+  673  scram b 
+  674  cmsRun python/ConfFile_cfg.py
+  675  scram b 
+  676  cmsRun python/ConfFile_cfg.py
+  677  cmsRun python/ConfFile_cfg.py
+  678  scram b 
+  679  cmsRun python/ConfFile_cfg.py
+  680  scram b 
+  681  cmsRun python/ConfFile_cfg.py
+  682  scram b 
+  683  scram b 
+  684  scram b 
+  685  scram b 
+  686  scram b 
+  687  scram b 
+  688  scram b 
+  689  scram b 
+  690  scram b 
+  691  cmsRun python/ConfFile_cfg.py
+  692  ls
+  693  gedit python/
+  694  ls -l python/
+  695  gedit plugins/calib.cc &
+  696  ls
+  697  scram --help
+  698  man scram
+  699  ls
+  700  cd plugins/
+  701  ls
+  702  gedit BuildFile.xml
+  703  vi BuildFile.xml
+  704  ls
+  705  exit
+  706  ls
+  707  exit
+  708  ls
+  709  source env.sh
+  710  scram b
+  711  exit
+  712  exit
+  713  exit
+  714  ls
+  715  cd ~
+  716  source env.sh
+  717  ls
+  718  cd ~
+  719  ls
+  720  exit
+  721  ls
+  722  gedit env.sh
+  723  gnome-terminal 
+  724  gedit env.sh &
+  725  source env.sh
+  726  gedit env.sh &
+  727  cd ~
+  728  gedit env.sh &
+  729  source env.sh
+  730  cd ~
+  731  exit
+  732  exit
+  733  exit
+  734  exit
+  735  exit
+  736  exit
+  737  exit
+  738  exit
+  739  exit
+  740  exit
+  741  exit
+  742  exit
+  743  exit
+  744  exit
+  745  exit
+  746  exit
+  747  exit
+  748  exit
+  749  exit
+  750  exit
+  751  cd ~
+  752  ls
+  753  gedit env.sh
+  754  exit
+  755  exit
+  756  exit
+  757  scram b
+  758  exit
+  759  exit
+  760  exit
+  761  cd ~
+  762  ls
+  763  gedit env.sh &
+  764  exit
+  765  exit
+  766  scram b
+  767  cmsRun
+  768  exit
+  769  exit
+  770  cd ~
+  771  ls
+  772  gedit env.sh &
+  773  exit
+  774  source env.sh
+  775  exit
+  776  source env.sh
+  777  scram b
+  778  cd ~
+  779  gedit env.sh
+  780  chmod +x *.sh
+  781  exit
+  782  exit
+  783  cd ~
+  784  ls
+  785  ./forenv.sh 
+  786  sh forenv.sh 
+  787  cmssw
+  788  cmsenv
+  789  exit
+  790  exit
+  791  gedit forenv.sh &
+  792  exit
+  793  cd ~
+  794  ls
+  795  exit
+  796  ls
+  797  gedit forenv.sh &
+  798  exit
+  799  exit
+  800  gedit env.sh &
+  801  exit
+  802  scram b
+  803  gedit env.sh &
+  804  exit
+  805  exit
+  806  exit
+  807  ex
+  808  exit
+  809  source env.sh
+  810  source env.sh
+  811  exit
+  812  source env.sh
+  813  exit
+  814  exit
+  815  exit
+  816  exit
+  817  exit
+  818  exit
+  819  ls
+  820  exit
+  821  exit
+  822  exit
+  823  exit | exit
+  824  exit ; exit
+  825  exit
+  826  exit
+  827  exit
+  828  exit
+  829  exit
+  830  ls
+  831  gedit env.sh
+  832  rm forenv.sh
+  833  ls
+  834  exit
+  835  exit
+  836  ls
+  837  exit
+  838  source env.sh
+  839  gedit plugins/calib.cc &
+  840  source env.sh
+  841  cmsRun python/ConfFile_cfg.py
+  842  gedit plugins/calib.cc &
+  843  ls
+  844  vi plugins/calib.cc
+  845  scram b 
+  846  scram b 
+  847  scram b 
+  848  vi -O plugins/BuildFile.xml
+  849  scram b
+  850  vi python/ConfFile_cfg.py
+  851  cmsRun python/ConfFile_cfg.py
+  852  ls
+  853  root test.root
+  854  ls
+  855  gedit plugins/BuildFile.xml &
+  856  ls -l plugins/
+  857  ls -l python/
+  858  gedit python/ConfFile_cfg.py &
+  859  scram b
+  860  cmsRun python/ConfFile_cfg.py
+  861  ls
+  862  root
+  863  scram b
+  864  cmsRun python/ConfFile_cfg.py
+  865  root
+  866  ls -l 
+  867  scram b
+  868  scram b
+  869  scram b
+  870  scram b
+  871  scram b
+  872  cmsRun python/ConfFile_cfg.py
+  873  root
+  874  scram b
+  875  cmsRun python/ConfFile_cfg.py
+  876  ls -l
+  877  root
+  878  scram b
+  879  cmsRun python/ConfFile_cfg.py
+  880  root
+  881  scram b
+  882  cmsRun python/ConfFile_cfg.py
+  883  root
+  884  s
+  885  ls
+  886  cd ..
+  887  ls
+  888  cd ..
+  889  ls
+  890  cd ..
+  891  ls
+  892  gedit temp.txt &
+  893  cd ~
+  894  source env.sh
+  895  gedit python/ConfFile_cfg.py &
+  896  source env.sh
+  897  ls
+  898  gedit plugins/calib.cc &
+  899  gedit plugins/calib.cc &
+  900  exit
+  901  source env.sh
+  902  ls
+  903  gedit plugins/calib.cc &
+  904  scram b
+  905  scram b
+  906  scram b
+  907  clear
+  908  scram b
+  909  clear
+  910  scram b
+  911  clear
+  912  clear
+  913  scram b
+  914  scram b
+  915  vimtutor
+  916  vimtutor
+  917  vim ~/.vimrc
+  918  vimtutor
+  919  vimtutor
+  920  vim
+  921  scram b
+  922  scram b
+  923  exit
+  924  source env.sh
+  925  scram b
+  926  scram b
+  927  scram b
+  928  scram b | less
+  929  scram b 
+  930  vi
+  931  vi
+  932  scram b -j
+  933  scram b -j
+  934  scram b -j
+  935  scram b -j
+  936  scram b -j
+  937  scram b -j
+  938  scram b -j
+  939  scram b -j
+  940  scram b -j
+  941  vi plugins/BuildFile.xml
+  942  scram b -j
+  943  vi python/ConfFile_cfg.py
+  944  cmsRun python/ConfFile_cfg.py
+  945   history | grep edm
+  946  edmDumpEventContent /hdfs/cms/phedex/store/mc/Summer12_DR53X/DYToEE_M-20_CT10_TuneZ2star_8TeV-powheg-pythia6/AODSIM/PU_S10_START53_V7A-v1/0000/02E2D67B-22F0-E111-B169-90E6BA442F3F.root > temp.txt
+  947  vi temp.txt
+  948  vi python/ConfFile_cfg.py
+  949  cmsRun -j
+  950  cmsRun python/ConfFile_cfg.py
+  951  vi python/ConfFile_cfg.py
+  952  cmsRun python/ConfFile_cfg.py
+  953  vi python/ConfFile_cfg.py
+  954  cmsRun python/ConfFile_cfg.py
+  955  vi python/ConfFile_cfg.py
+  956  python python/ConfFile_cfg.py
+  957  vi /cvmfs/cms.cern.ch/slc5_amd64_gcc481/cms/cmssw/CMSSW_7_1_0_pre5/python/CommonTools/ParticleFlow/Tools/pfIsolation.py
+  958  vi /cvmfs/cms.cern.ch/slc5_amd64_gcc481/cms/cmssw/CMSSW_7_1_0_pre5/python/CommonTools/ParticleFlow/Tools/pfIsolation.py
+  959  vi python/ConfFile_cfg.py
+  960  python python/ConfFile_cfg.py
+  961  vi python/ConfFile_cfg.py
+  962  cmsRun python/ConfFile_cfg.py
+  963  cmsRun python/ConfFile_cfg.py
+  964  cmsRun python/ConfFile_cfg.py
+  965  scram b -j
+  966  cmsRun python/ConfFile_cfg.py
+  967  vi test.py
+  968  vi test.py
+  969  grep -i root python/*
+  970  vi test.py
+  971  cmsRun test.py
+  972  python test.py
+  973  vi test.py
+  974  showtags
+  975  cmsenv
+  976  cmsRun test.py
+  977  cmsrel 
+  978  vi test.py
+  979  fg
+  980  cmsRun test.py
+  981  scram b
+  982  cmsRun python/ConfFile_cfg.py
+  983  python test.py
+  984  cmsRun python/ConfFile_cfg.py
+  985  scram b
+  986  cmsRun python/ConfFile_cfg.py
+  987  ls
+  988  vi tutorial.txt
+  989  ls
+  990  rm tutorial.txt 
+  991  vi tutorial.py
+  992  ls
+  993  source env.sh
+  994  gedit plugins/calib.cc &
+  995  scram b
+  996  source env.sh
+  997  gedit plugins/calib.cc &
+  998  source env.sh
+  999  history > history.aug.19.txt

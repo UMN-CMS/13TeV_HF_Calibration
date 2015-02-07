@@ -1,0 +1,1000 @@
+    6  condor_q
+    7  history
+    8  condor_q
+    9  history
+   10  zcat /local/cms/user/qnguyen/condor_test/log/*gz
+   11  condor_q
+   12  history
+   13  /local/cms/user/qnguyen/condor_test/log/
+   14  cd /local/cms/user/qnguyen/condor_test/log/
+   15  ls
+   16  zcat /local/cms/user/qnguyen/condor_test/log/*.err
+   17  cat /local/cms/user/qnguyen/condor_test/log/*.err
+   18  ls
+   19  condor_q
+   20  ls
+   21  zcat condor_test_024.err.gz 
+   22  ls
+   23  zcat condor_test_024.log.gz 
+   24  condor_q
+   25  condor_q
+   26  condor_q
+   27  condor_q
+   28  condor_q
+   29  condor_q
+   30  condor_q
+   31  ls
+   32  cd ..
+   33  ls
+   34  root 
+   35  ls
+   36  hadd all.root *root
+   37  ls
+   38  root all.root 
+   39  history
+   40  cd ~
+   41  ls
+   42  source env.sh
+   43  ls
+   44  cd ..
+   45  cd ..
+   46  cd ..
+   47  ls
+   48  cd /local/cms/user/qnguyen/condor_test/
+   49  ls
+   50  mkdir first_gsf_loose_13TeV_10_21_2014
+   51  ls
+   52  mv *root first_gsf_loose_13TeV_10_21_2014/
+   53  ls
+   54  cd first_gsf_loose_13TeV_10_21_2014/
+   55  ls
+   56  cd ..
+   57  ls
+   58  cd ~
+   59  ls
+   60  cd cmssw/
+   61  ls
+   62  cd CMSSW_7_1_0_pre5
+   63  ls
+   64  cd src/base/calib/
+   65  ls
+   66  ls
+   67  gedit plugins/calib.cc &
+   68  ls
+   69  scram b
+   70  cmsRun python/ConfFile_cfg.py 
+   71  ls
+   72  history
+   73  ~/bin/condor_filelist.perl python/ConfFile_cfg.py DYJetsToLL_filelist.txt --jobname condor_test
+   74  condor_q
+   75  watch condor_q
+   76  watch condor_q
+   77  history
+   78  condor_status -submitters
+   79  watch condor_q
+   80  condor_q qnguyen
+   81  condor_q 
+   82  condor_q all
+   83  condor_q 8
+   84  condor_q *
+   85  condor_q 
+   86  condor_q -submitters
+   87  watch condor_q
+   88  watch condor_q
+   89  watch condor_q
+   90  condor_q -submitters
+   91  condor_status -submitters
+   92  watch condor_q
+   93  watch condor_q
+   94  exit
+   95  ls
+   96  source env.sh
+   97  cd /local/cms/user/qnguyen/
+   98  ls
+   99  cd condor_test/
+  100  ls
+  101  cd ..
+  102  ls
+  103  cd logs/
+  104  ls
+  105  cd error 
+  106  ls
+  107  cd output 
+  108  ls
+  109  ls -l
+  110  more error 
+  111  ls
+  112  more output 
+  113  cd ..
+  114  ls
+  115  cd condor_test/
+  116  ls
+  117  cd log/
+  118  ls
+  119  zcat condor_test_000.err.gz 
+  120  ls
+  121  zcat condor_test_000.log.gz 
+  122  zcat condor_test_000.err.gz 
+  123  ls
+  124  zcat condor_test_001.err.gz 
+  125  ls
+  126  cd ..
+  127  ls
+  128  cd first_gsf_loose_13TeV_10_21_2014/
+  129  ls
+  130  cd ..
+  131  ls
+  132  cd log/
+  133  ls
+  134  zcat condor_test_002.err.gz 
+  135  zcat condor_test_003.err.gz 
+  136  zcat condor_test_003.log.gz 
+  137  zcat condor_test_004.log.gz 
+  138  zcat condor_test_005.log.gz 
+  139  zcat condor_test_005.err.gz 
+  140  source env.sh
+  141  cmsRun python/ConfFile_cfg.py
+  142  cmsRun python/ConfFile_cfg.py
+  143  ls -l
+  144  root test.root &
+  145  root test.root 
+  146  ls
+  147  history
+  148  ls
+  149  history
+  150  cd ..
+  151  cd ~
+  152  ls
+  153  cd cmssw/
+  154  ls
+  155  cd /local/cms
+  156  cd user/qnguyen/
+  157  ls
+  158  cd condor_test/
+  159  cd ..
+  160  ls
+  161  history
+  162  source env.sh
+  163  ls
+  164  gedit plugins/calib.cc &
+  165  ls
+  166   gedit env.sh &
+  167  ls
+  168  mv env_go_to_result.sh go2result_env.sh
+  169  ls
+  170  . go2result_env.sh 
+  171  cd ~
+  172  ls
+  173  gedit go2result_env.sh &
+  174  . go2result_env.sh
+  175  ls
+  176  cd condor_test/
+  177  ls
+  178  mkdir second_no_LOOSE
+  179  ls
+  180  mv -r *root second_no_LOOSE/
+  181  ls
+  182  cp -r *root second_no_LOOSE/
+  183  ls
+  184  cd second_no_LOOSE/
+  185  ls
+  186  cd ..
+  187  ls
+  188  rm -r *root
+  189  ls
+  190  cd cfg/
+  191  ls
+  192  cd ..
+  193  ls
+  194  cp -r log second_no_LOOSE/
+  195  ls
+  196  cd second_no_LOOSE/
+  197  ls
+  198  cd ..
+  199  ls
+  200  ls
+  201  cd log/
+  202  ls
+  203  ls -l
+  204  rm -r *.gz
+  205  ls
+  206  cd ..
+  207  ls
+  208  ls
+  209  cd cfg/
+  210  ls
+  211  ls -l
+  212  exit
+  213  ls
+  214  . go2result_env.sh
+  215  ls
+  216  cd condor
+  217  ls
+  218  cd ..
+  219  ls
+  220  ls -l
+  221  cd condor
+  222  ls
+  223  cd log/
+  224  ls
+  225  zcat condor_022.err.gz 
+  226  ls
+  227  cd ..
+  228  ls
+  229  cd ..
+  230  ls
+  231  cd condor
+  232  ls
+  233  cd log/
+  234  ls
+  235  zcat condor_022.log.gz 
+  236  zcat condor_022.err.gz 
+  237  exit
+  238  source env.sh
+  239  gedit plugins/calib.cc &
+  240  scram b
+  241  hisotry
+  242  history
+  243  /bin/condor_filelist.perl python/ConfFile_cfg.py DYJetsToLL_filelist.txt --jobname condor
+  244  ~/bin/condor_filelist.perl python/ConfFile_cfg.py DYJetsToLL_filelist.txt --jobname condor
+  245  watch condor_q
+  246  condor_q -submitters
+  247  condor_status -submitters
+  248  condor_Q
+  249  condor_q
+  250  watch condor_q
+  251  hisotry
+  252  history
+  253  watch condor_q
+  254  watch condor_q
+  255  watch condor_q gude
+  256  watch condor_q gudd
+  257  watch condor_q ddd
+  258  watch condor_q *
+  259  watch condor_q
+  260  watch condor_q
+  261  ls
+  262  exit
+  263  ls
+  264  source go2result_env.sh
+  265  ls
+  266  watch condor_q
+  267  condor_status --submitters
+  268  condor_status -submitters
+  269  watch condor_q
+  270  watch condor_q
+  271  ls
+  272  cd condor
+  273  ls
+  274  cd log/
+  275  ls
+  276  zcat condor_000.err.gz 
+  277  ls
+  278  cd ..
+  279  ls
+  280  hadd incomplet.root *root
+  281  ls
+  282  root incomplet.root 
+  283  ls
+  284  cd log/
+  285  ls
+  286  watch condor_q
+  287  ls
+  288  cd ..
+  289  ls
+  290  rm incomplet.root 
+  291  ls
+  292  watch condor_q
+  293  watch condor_q
+  294  ls
+  295  exit
+  296  source go2result_env.sh
+  297  watch condor_q
+  298  watch condor_q
+  299  watch condor_q
+  300  cd ..
+  301  ls
+  302  cd pastika/
+  303  ls
+  304  cd ..
+  305  ls
+  306  cd qnguyen/
+  307  ls
+  308  watch condor_q
+  309  watch condor_q
+  310  watch condor_q
+  311  ls
+  312  cd condor
+  313  cd ..
+  314  ls
+  315  cd condor_test/
+  316  ls
+  317  cd second_no_LOOSE/
+  318  ls
+  319  exit
+  320  source go2result_env.sh
+  321  ls
+  322  cd condor
+  323  ls
+  324  hadd all.root *root
+  325  ls
+  326  root all.root
+  327  cd ~
+  328  sourc env.sh
+  329  source env.sh
+  330  ls
+  331  gedit plugins/calib.cc &\
+  332  gedit plugins/calib.cc &
+  333  cd ~
+  334  source go2result_env.sh
+  335  ls
+  336  mv condor thirdrun_no_loose_fixed_pointer
+  337  ls
+  338  mv condor_test first2run
+  339  ls
+  340  cd ~
+  341  source env.sh
+  342  gedit plugins/calib.cc &
+  343  scram b
+  344  cmsRun python/ConfFile_cfg.py
+  345  history
+  346  ~/bin/condor_filelist.perl python/ConfFile_cfg.py DYJetsToLL_filelist.txt --jobname forth_run_loose
+  347  cd ~
+  348  source go2result_env.sh
+  349  ls
+  350  watch condor_q
+  351  watch condor_q
+  352  watch condor_q
+  353  exit
+  354  source go2result_env.sh
+  355  condor_q
+  356  watch condor_q
+  357  ls
+  358  cd forth_run_loose/
+  359  ls
+  360  cd log/
+  361  ls
+  362  cd ..
+  363  ls
+  364  cd log/
+  365  ls
+  366  zcat forth_run_loose_003.log.gz 
+  367  exit
+  368  source env.sh
+  369  history
+  370  source go2result_env.sh
+  371  ls
+  372  cd forth_run_loose/
+  373  ls
+  374  hadd all.root *root
+  375  ls
+  376  root all.root 
+  377  cd ~
+  378  ls
+  379  source env.sh
+  380  gedit plugins/
+  381  gedit plugins/calib.cc &
+  382  scram b
+  383  cmsRun python/ConfFile_cfg.py &
+  384  kills all
+  385  kill
+  386  kills all
+  387  kill all
+  388  kill qnguyen
+  389  kill *
+  390  kill -qnguyen
+  391  kills alljob
+  392  pkill -u qnguyen
+  393  source env.sh
+  394  scram b
+  395  cmsRun python/ConfFile_cfg.py 
+  396  history
+  397  ~/bin/condor_filelist.perl python/ConfFile_cfg.py DYJetsToLL_filelist.txt --jobname fifth_medium
+  398  condor_status -submitters
+  399  watch condor)q
+  400  watch condor_q
+  401  condor_status -submitters
+  402  exit
+  403  watch condor_q
+  404  exit
+  405  source env.sh
+  406  cd ~
+  407  source go2result_env.sh
+  408  ls
+  409  watch condor_q
+  410  ls
+  411  cd forth_run_loose/
+  412  ls
+  413  root all.root 
+  414  ls
+  415  exit
+  416  watch condor_status
+  417  watch condor_q
+  418  ls
+  419  source go2result_env.sh
+  420  ls
+  421  cd forth_run_loose/
+  422  ls
+  423  cd ..
+  424  ls
+  425  cd thirdrun_no_loose_fixed_pointer/
+  426  ls
+  427  ls
+  428  source go2result_env.sh
+  429  ls
+  430  watch condor_q
+  431  ls
+  432  cd fifth_medium/
+  433  ls
+  434  hadd gsf_medium.root *root
+  435  ls
+  436  root gsf_medium.root 
+  437  root 
+  438  cd ~
+  439  source env.sh
+  440  ls
+  441  gedit plugins/calib.cc &
+  442  scram b
+  443  cmsRun python/ConfFile_cfg.py
+  444  history
+  445  ~/bin/condor_filelist.perl python/ConfFile_cfg.py DYJetsToLL_filelist.txt --jobname sixth_tight
+  446  watch condor_q
+  447  cd ~
+  448  source go2result_env.sh
+  449  ls
+  450  cd sixth_tight/
+  451  ls
+  452  hadd tight.root *root
+  453  root tight.root 
+  454  ls
+  455  exit
+  456  ls
+  457  source go2result_env.sh
+  458  ls
+  459  cd fifth_medium/
+  460  ls
+  461  root gsf_medium.root 
+  462  ls
+  463  exit
+  464  source go2result_env.sh
+  465  ls
+  466  cd ~
+  467  ls
+  468  source env.sh
+  469  ls
+  470  gedit plugins/calib.cc &
+  471  scram b
+  472  cmsRun python/ConfFile_cfg.py &
+  473  cd ~
+  474  ls
+  475  source env.sh
+  476  ls
+  477  root test.root 
+  478  ls -l
+  479  root test.root 
+  480  scram b
+  481  scram b
+  482  scram b
+  483  cmsRun python/ConfFile_cfg.py 
+  484  scram b
+  485  scram b
+  486  cmsRun python/ConfFile_cfg.py 
+  487  root test.root 
+  488  cmsRun python/ConfFile_cfg.py 
+  489  scram b
+  490  cmsRun python/ConfFile_cfg.py 
+  491  root test.root 
+  492  scram b
+  493  cmsRun python/ConfFile_cfg.py 
+  494  root test.root 
+  495  scram b
+  496  cmsRun python/ConfFile_cfg.py 
+  497  root test.root 
+  498  scram b
+  499  cmsRun python/ConfFile_cfg.py 
+  500  root test.root 
+  501  root test.root 
+  502  cmsRun python/ConfFile_cfg.py 
+  503  cmsRun python/ConfFile_cfg.py &
+  504  exit
+  505  source env.sh
+  506  ls
+  507  ls -l
+  508  ls -l
+  509  ls -l
+  510  ls -l
+  511  ls -l
+  512  ls -l
+  513  ls -l
+  514  ls -l
+  515  ls -l
+  516  ls -l
+  517  ls -l
+  518  ls -l
+  519  ls -l
+  520  ls -l
+  521  history
+  522  exit
+  523  source env.sh
+  524  gedit plugins/calib.cc
+  525  gedit plugins/calib.cc &
+  526  root test.root 
+  527  ls -l
+  528  scram b
+  529  cmsRun python/ConfFile_cfg.py
+  530  cmsRun python/ConfFile_cfg.py
+  531  ls -l
+  532  root test.root 
+  533  cmsRun python/ConfFile_cfg.py
+  534  scram b
+  535  cmsRun python/ConfFile_cfg.py
+  536  ls
+  537  root test.root 
+  538  scram b
+  539  cmsRun python/ConfFile_cfg.py
+  540  ls -l
+  541  root test.root 
+  542  scram b
+  543  cmsRun python/ConfFile_cfg.py
+  544  scram b
+  545  cmsRun python/ConfFile_cfg.py
+  546  root test.root 
+  547  scram b
+  548  cmsRun python/ConfFile_cfg.py
+  549  ls
+  550  ls -l
+  551  root test.root 
+  552  history
+  553  ~/bin/condor_filelist.perl python/ConfFile_cfg.py DYJetsToLL_filelist.txt --jobname 7th_HF_above_20GeV
+  554  watch condor_q
+  555  watch_status --submitters
+  556  watch condor_status --submitters
+  557  condor_status --submitters
+  558  history
+  559  condor_status -submitters
+  560  exit
+  561  source env.sh
+  562  cd /hdfs/cms/phedex/store/mc/Spring14dr/DYJetsToLL_M-50_13TeV-madgraph-pythia8-tauola_v2/AODSIM/PU20bx25_POSTLS170_V5-v1/00000/
+  563  ls
+  564  root FEF89943-5306-E411-AA63-FA163EA549B1.root 
+  565  exit
+  566  watch condor_q
+  567  condor_status -submitters
+  568  watch condor_q
+  569  exit
+  570  source env.sh
+  571  condor_q
+  572  ls
+  573  ls -l
+  574  root test.root 
+  575  watch condor_q
+  576  exit
+  577  . source env.sh
+  578  source env.sh
+  579  ls
+  580  condor_q
+  581  cmsRun python/ConfFile_cfg.py &
+  582  source env.sh
+  583  ls
+  584  gedit plugins/calib.cc &
+  585  scram b
+  586  scram b
+  587  scram b
+  588  scram b
+  589  scram b
+  590  history
+  591   ~/bin/condor_filelist.perl python/ConfFile_cfg.py DYJetsToLL_filelist.txt --jobname 8th_gsf_medium_both_above_20GeV
+  592  condor_status -submitters
+  593  exit
+  594  source go2result_env.sh
+  595  condor_Q
+  596  condor_q
+  597  ls
+  598  cd 7th_HF_above_20GeV/
+  599  ls
+  600  hadd all.root *root
+  601  ls
+  602  root all.root 
+  603  ls
+  604  exit
+  605  source go2result_env.sh
+  606  condor_q
+  607  ls
+  608  root 7th_HF_above_20GeV/
+  609  ls
+  610  ls
+  611  cd 8th_gsf_medium_both_above_20GeV/
+  612  ls
+  613  condor_q
+  614  ls
+  615  hadd all.root
+  616  hadd all.root *root
+  617  ls
+  618  root all.root 
+  619  exit
+  620  source env.sh
+  621  ls
+  622  gedit plugins/calib.cc
+  623  gedit plugins/calib.cc &
+  624  source env.sh
+  625  gedit plugins/calib.cc &
+  626  scram b
+  627  scram b
+  628  scram b
+  629  scram b
+  630  cmsRun python/ConfFile_cfg.py
+  631  ls -l
+  632  root test.root 
+  633  scram b
+  634  cmsRun python/ConfFile_cfg.py
+  635  root test.root 
+  636  history
+  637  ~/bin/condor_filelist.perl python/ConfFile_cfg.py DYJetsToLL_filelist.txt --jobname 9th_GenZmass_Eta_cut
+  638  watch condor_Q
+  639  watch condor_q
+  640  history
+  641  condor_status -submitters
+  642  exit
+  643  condor_q
+  644  condor_status -submitters
+  645  groups
+  646  /hdfs/bes3
+  647  ls
+  648  condor_status -submitters
+  649  exit
+  650  condor_status -submitters
+  651  exit
+  652  source go2result_env.sh
+  653  ls
+  654  cd 9th_GenZmass_Eta_cut/
+  655  ls
+  656  ls
+  657  cd ~
+  658  source env.sh
+  659  ls
+  660  gedit plugins/calib.cc
+  661  exit
+  662  source go2result_env.sh
+  663  ls
+  664  condor_Q
+  665  condor_q
+  666  cd 9th_GenZmass_Eta_cut/
+  667  ls
+  668  hadd 9.root *root
+  669  root 9.root 
+  670  eog Z_ee_events.png 
+  671  root 9.root 
+  672  exit
+  673  source env.sh
+  674  source go2result_env.sh
+  675  ls
+  676  cd 9th_GenZmass_Eta_cut/
+  677  root 9.root 
+  678  source env.sh
+  679  gedit plugins/calib.cc &
+  680  scram b
+  681  . scram b
+  682  . scram b
+  683  cmsRun python/ConfFile_cfg.py
+  684  ls -l
+  685  root test.root 
+  686  source env.sh
+  687  gedit plugins/calib.cc &
+  688  scram b
+  689  cmsRun python/ConfFile_cfg.py
+  690  ls
+  691  ls -l
+  692  root test.root 
+  693  scram b
+  694  scram b
+  695  scram b
+  696  scram b
+  697  scram b
+  698  scram b
+  699  scram b
+  700  scram b
+  701  scram b
+  702  cmsRun python/ConfFile_cfg.py
+  703  scram b
+  704  cmsRun python/ConfFile_cfg.py
+  705  history
+  706  ~/bin/condor_filelist.perl python/ConfFile_cfg.py DYJetsToLL_filelist.txt --jobname 10th_suceedingbin
+  707  history
+  708  condor_status -submitters
+  709  exit
+  710  source go2result_env.sh
+  711  ls
+  712  cd 9th_GenZmass_Eta_cut/
+  713  ls
+  714  root 9.root 
+  715  exit
+  716  source go2result_env.sh
+  717  condor_q
+  718  condor_status
+  719  watch condor_status
+  720  history
+  721  condor_status -submitters
+  722  ls
+  723  cd 10th_suceedingbin/
+  724  ls
+  725  hadd 10.root *root
+  726  root 10.root 
+  727  source go2result_env.sh
+  728  ls
+  729  cd 10th_suceedingbin/
+  730  ls
+  731  root 10.root 
+  732  cd ~
+  733  ls
+  734  source env.sh
+  735  root temp.root 
+  736  exit
+  737  source env.sh
+  738  ls
+  739  cd ~
+  740  source go2result_env.sh
+  741  ls
+  742  cd ~
+  743  source env.sh
+  744  gedit plugins/calib.cc &
+  745  scram b
+  746  cmsRun python/ConfFile_cfg.py
+  747  scram b
+  748  scram b
+  749  cmsRun python/ConfFile_cfg.py
+  750  scram b
+  751  cmsRun python/ConfFile_cfg.py
+  752  scram b
+  753  cmsRun python/ConfFile_cfg.py
+  754  scram b
+  755  cmsRun python/ConfFile_cfg.py
+  756  scram b
+  757  cmsRun python/ConfFile_cfg.py
+  758  scram b
+  759  cmsRun python/ConfFile_cfg.py
+  760  ls -l
+  761  root test.root 
+  762  mv test.root temp.root
+  763  cmsRun python/ConfFile_cfg.py
+  764  scram b
+  765  cmsRun python/ConfFile_cfg.py
+  766  ls -l
+  767  root test.root 
+  768  exit
+  769  source env.sh
+  770  gedit plugins/calib.cc &
+  771  scram b
+  772  ls
+  773  root test.root &
+  774  source env.sh
+  775  root test.root 
+  776  root test.root 
+  777  root test.root 
+  778  ls -l
+  779  root test.root 
+  780  root test.root 
+  781  exit
+  782  source env.sh
+  783  gedit plugins/calib.cc 7
+  784  gedit plugins/calib.cc &
+  785  scram b
+  786  ls
+  787  cmsrun python/ConfFile_cfg.py 
+  788  cmsRun python/ConfFile_cfg.py 
+  789  scram b
+  790  scram b
+  791  scram b
+  792  cmsRun python/ConfFile_cfg.py 
+  793  scram b
+  794  scram b
+  795  scram b
+  796  scram b
+  797  scram b
+  798  cmsRun python/ConfFile_cfg.py 
+  799  scram b
+  800  cmsRun python/ConfFile_cfg.py 
+  801  cmsRun python/ConfFile_cfg.py &
+  802  source env.sh
+  803  ls
+  804  ls -l
+  805  root test.root
+  806  scram b
+  807  cmsRun python/ConfFile_cfg.py
+  808  ls -l
+  809  root test.root 
+  810  source env.sh`
+  811  source env.sh
+  812  root test.root `
+  813  root test.root 
+  814  gedit plugins/calib.cc &
+  815  root test.root 
+  816  exit
+  817  source env.sh
+  818  source env.sh
+  819  source env.sh
+  820  source env.sh
+  821  gedit plugins/calib.cc 7
+  822  gedit plugins/calib.cc &
+  823  cmsRun python/ConfFile_cfg.py 
+  824  cmsRun python/ConfFile_cfg.py 
+  825  LS -L
+  826  ls -l
+  827  root test.root 
+  828  scram b
+  829  cmsRun python/ConfFile_cfg.py 
+  830  ls -l
+  831  root test.root 
+  832  ls
+  833  cd cmssw/CMSSW_7_1_0_pre5/src/base/calib/python/
+  834  ls
+  835  gedit ConfFile_cfg.py &
+  836  cd ..
+  837  source env.sh
+  838  cmsRun python/ConfFile_cfg.py 
+  839  root test.root
+  840  cd /hdfs/cms/user/
+  841  ls
+  842  cd cd ..
+  843  ls
+  844  cd ..
+  845  cd ..
+  846  ls
+  847  cd ..
+  848  /local/cms/user/qnguyen/
+  849  ls
+  850  ls
+  851  cd ..
+  852  ls
+  853  cd bin/
+  854  ls
+  855  cd ..
+  856  ls
+  857  pwd
+  858  cd /local/cms/phedex/store/
+  859  ls
+  860  cd user 
+  861  cd user 
+  862  ls
+  863  cd user
+  864  cd ..
+  865  ls
+  866  cd store/
+  867  cd ~
+  868  ls
+  869  . go2result_env.sh
+  870  ls
+  871  cd ..
+  872  ls
+  873  cd gude/
+  874  ls
+  875  cd ..
+  876  ls
+  877  cd qnguyen/
+  878  ls
+  879  ls
+  880  ls -l
+  881  mv test.root e9e25minus1.root
+  882  ls
+  883  root e9e25minus1.root 
+  884  pwd
+  885  root e9e25minus1.root 
+  886  ls -l
+  887  exit
+  888  source env.sh
+  889  ls
+  890  ls -l
+  891  cp test.root /local/cms/user/qnguyen/
+  892  exit
+  893  ls
+  894  cd print
+  895  ls
+  896  gedit print.sh
+  897  pwd
+  898  ls
+  899  sh print.sh
+  900  gedit print.sh
+  901  gedit print.sh
+  902  sh print.sh
+  903  exit
+  904  exit
+  905  source env.sh
+  906  gedit plugins/calib.cc &
+  907  gedit python/ConfFile_cfg.py &
+  908  scram b
+  909  cmsRun python/ConfFile_cfg.py
+  910  ls -l
+  911  root test.root 
+  912  source env.sh
+  913  ls
+  914  root test.root 
+  915  mv test.root e9e25Minus1.root
+  916  ls -l
+  917  root e9e25Minus1.root 
+  918  source env.sh
+  919  source env.sh
+  920  ls -l
+  921  root test.root 
+  922  ls
+  923  sh go2result_env.sh
+  924  ls
+  925  source go2result_env.sh
+  926  ls
+  927  source env.sh
+  928  gedit plugins/calib.cc &
+  929  history
+  930  ~/bin/condor_filelist.perl python/ConfFile_cfg.py DYJetsToLL_filelist.txt --jobname 11th_highHF
+  931  watch condor_q
+  932  source env.sh
+  933  history
+  934  watch condor_q
+  935  exit
+  936  source env.sh
+  937  ls
+  938  cd ~
+  939  ls
+  940  source go2result_env.sh
+  941  watch_q condor
+  942  watch_condor
+  943  watch_condor q
+  944  watch condor_q
+  945  ls
+  946  cd 11th_highHF/
+  947  ls
+  948  history
+  949  hadd 11.root *root
+  950  ls
+  951  root 11.root 
+  952  source env.sh
+  953  gedit plugins/calib.cc &
+  954  source env.sh
+  955  cd ~
+  956  ls
+  957  source go2result_env.sh
+  958  ls
+  959  cd 11th_highHF/
+  960  ls
+  961  root 11.root
+  962  root 11.root
+  963  firefox 
+  964  ls
+  965  cd ..
+  966  exit
+  967  ls
+  968  source env.sh
+  969  ls
+  970  cd ..
+  971  cd ..
+  972  ls
+  973  cd ..
+  974  ls
+  975  cd ..
+  976  ls
+  977  cd ..
+  978  ls
+  979  cd cmssw/CMSSW_7_1_0_pre5/src/base/calib/
+  980  ls
+  981  cd ../../../..
+  982  ls
+  983  cd ..
+  984  ls
+  985  exit
+  986  ls
+  987  source env.sh
+  988  cd ../../..
+  989  ls
+  990  cd ..
+  991  ls
+  992  cd CMSSW_7_1_0_pre5/
+  993  ls
+  994  exit
+  995  source env.sh
+  996  history
+  997  watch condor_q
+  998  ls
+  999  cd plugins/
+ 1000  ls
+ 1001  source env.sh
+ 1002  git status
+ 1003  history
+ 1004  ls
+ 1005  history > history.feb.06.2015.txt
